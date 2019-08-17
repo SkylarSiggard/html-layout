@@ -1,0 +1,90 @@
+.base, html {
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+.the-head {
+    width: 80%;
+    height: 140px;
+    background-color: white;
+    margin: 40px 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+}
+
+.head-right {
+    width: 4%;
+    height: 80px;
+    background-color: purple;
+    margin-top: 50px;
+    margin-left: 10px;
+    float: left;
+}
+
+.head-middle {
+    width: 35%;
+    height: 120px;
+    background-color: darkgreen;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+.head-left {
+    width: 120px;
+    height: 120px;
+    background-color: lightskyblue;
+    border-radius: 50%;
+    float: left;
+    margin: 10px 60px;
+}
+
+.dot {
+    border-style: dotted;
+    width: 80%;
+    height: 190px;
+    margin: 5px 100px;
+    float: left;
+}
+
+.middle-box {
+    box-shadow: 5px 10px;
+    width: 96%;
+    height: 140px;
+    float: left;
+    background-color: rgb(207, 207, 170);
+    margin: 20px 20px;
+}
+
+.foot-box {
+    box-shadow: 5px 10px;
+    width: 20%;
+    height: 200px;
+    float: left;
+    background-color: white;
+    margin: 20px 35%;
+    border-style: solid;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+ h1 {
+    color: blue;
+    text-align: center;
+    font-family: serif;
+    font-size: 25px;
+    line-height: 30%;
+    margin: 70px 0 0 0;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    font-family: serif;
+    font-size: 25px;
+    line-height: 30%;
+}
+
